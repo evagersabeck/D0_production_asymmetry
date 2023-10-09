@@ -22,7 +22,9 @@ mkdir ProductionAsymmetry
 cd ProductionAsymmetry
 git init
 git remote add -f origin https://github.com/mark1ry/D0_production_asymmetry
-git pull origin master
+#git pull origin master
+For github:
+git pull origin main
 ```
 
 ## How to use
